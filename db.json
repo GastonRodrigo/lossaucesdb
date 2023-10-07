@@ -1,0 +1,202 @@
+// test api para los sauces
+{
+"productos" : [
+  {
+    "id": 1,
+    "name": "Burganas",
+    "category": "Congelados",
+    "price": "$2500",
+    "img": "https://rickandmortyapi.com/api/location/1.jpg"
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "category": "",
+    "price": "",
+    "img": ""
+  }
+]
+}
